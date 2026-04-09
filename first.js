@@ -11,3 +11,4 @@ function second() {
 }
 
 console.log("hello! I am main");
+console.log("I am the third branch.");
