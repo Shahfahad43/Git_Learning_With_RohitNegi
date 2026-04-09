@@ -9,3 +9,5 @@ console.log("I am feature branch.");
 function second() {
   console.log("I am the second branch");
 }
+
+console.log("hello! I am main");
