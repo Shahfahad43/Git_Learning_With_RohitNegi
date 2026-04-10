@@ -17,7 +17,11 @@ console.log("hello! I am second");
 
 console.log("I am for making a full request.");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 console.log("I am the third stash.");
 =======
 console.log("I am the fourth stash.");
+>>>>>>> Stashed changes
+=======
+console.log("I am the second stage.");
 >>>>>>> Stashed changes
