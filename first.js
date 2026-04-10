@@ -16,3 +16,4 @@ console.log("hello! I am main");
 console.log("hello! I am second");
 
 console.log("I am for making a full request.");
+console.log("I am the third stash.");
